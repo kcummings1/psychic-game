@@ -28,6 +28,8 @@ body {
     font-size: 30px;
     line-height: 50px;
     color: peru;
+    border-style:ridge;
+    border-color: black;
   }
   
   h2,
@@ -41,9 +43,11 @@ body {
     margin:0;
   }
 
-  /*.homer-image {
-    width:100%;
+  .homer-image {
+    width:fit-content;
     height:200px;
+    border-style:ridge;
+    border-color: black;
   }
   
   /*MAIN*/
